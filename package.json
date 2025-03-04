@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "body-parser": "^1.20.3",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "uuid": "^11.1.0"
   },
   "name": "places",
   "version": "1.0.0",
